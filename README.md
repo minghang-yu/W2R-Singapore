@@ -1,2 +1,2 @@
 # W2R-Singapore
-Replication materials for the sheltered walkway and travel behavior study.
+This repository hosts data and code used in our study of sheltered walkway construction in Singapore. Here is instructions:

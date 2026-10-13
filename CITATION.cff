@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the versioned release using its DOI."
+title: "Replication code for Linking Neighborhoods to Transit: Climate-Adaptive Mobility through Sheltered Walkways"
+version: 1.0.0
+type: software
+authors:
+  - family-names: Gao
+    given-names: Qiuxia
+  - family-names: Lee
+    given-names: Kwan Ok
+  - family-names: Yu
+    given-names: Minghang
+  - family-names: Zhang
+    given-names: Shuting
+license: MIT
+repository-code: "https://github.com/minghang-yu/W2R-Singapore"
+abstract: >-
+  Stata and Python code supporting the household travel survey and farecard
+  analyses reported in Linking Neighborhoods to Transit: Climate-Adaptive
+  Mobility through Sheltered Walkways.
+keywords:
+  - sheltered walkways
+  - public transportation
+  - travel behavior
+  - difference-in-differences
+  - Singapore
